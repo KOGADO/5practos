@@ -1,0 +1,16 @@
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\bin\Debug\TicTacToeWPF_MVVM.exe.config
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\bin\Debug\TicTacToeWPF_MVVM.exe
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\bin\Debug\TicTacToeWPF_MVVM.pdb
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.csproj.AssemblyReference.cache
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\View\MainWindow.g.cs
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\App.g.cs
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM_MarkupCompile.cache
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM_MarkupCompile.lref
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\View\MainWindow.baml
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.g.resources
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.Properties.Resources.resources
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.csproj.GenerateResource.cache
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.exe
+C:\Users\kogado\Downloads\TicTacToeWPF_MVVM-master\TicTacToeWPF_MVVM-master\obj\Debug\TicTacToeWPF_MVVM.pdb
